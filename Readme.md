@@ -15,7 +15,6 @@ O dashboard está estruturado para responder às seguintes perguntas:
 
 ### 1. Qual o faturamento Total de vendas dos planos anuais?
 Esta análise consolida a receita gerada exclusivamente por clientes que optaram por um ciclo de assinatura anual.
-Obs: Usar o filtro.
 
 * **KPI no Dashboard:** `TOTAL SUBSCRIPTIONS PER TYPE` (Gráfico de barras)
 * **Insight Estratégico:** Este valor representa a contribuição financeira dos clientes de maior comprometimento. É um indicador chave para a previsibilidade de receita e a estabilidade do fluxo de caixa da empresa, mostrando o quanto da receita está "garantida" para os próximos 12 meses.
